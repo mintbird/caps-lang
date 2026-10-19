@@ -4,6 +4,12 @@ Switch your Windows input language with **Caps Lock** instead of <kbd>Win</kbd>+
 
 A tiny (~330 KB), dependency-free background app written in Rust. No window, no tray icon, no polling: it uses no CPU while you are not pressing Caps.
 
+## Disclaimer
+
+- This repo was created with AI (Claude Code).
+- It is made for my own personal use and shared as is, with no warranty.
+- It installs a keyboard hook and runs as administrator. If you don't trust the released `.exe`, read the source and [build it yourself](#build).
+
 ## Keys
 
 | You press | What happens |
