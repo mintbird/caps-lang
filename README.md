@@ -1,10 +1,8 @@
-# caps-lang
+# caps-lang: Caps Lock Keyboard Layout Switcher for Windows 11
 
-Switch your Windows input language with **Caps Lock** instead of <kbd>Win</kbd>+<kbd>Space</kbd>.
+A tiny (~330 KB), dependency-free background app written in Rust that lets you use **Caps Lock** instead of <kbd>Win</kbd>+<kbd>Space</kbd> to switch your input language. No window, no tray icon, no polling: it uses no CPU while you are not pressing Caps.
 
-A tiny (~330 KB), dependency-free background app written in Rust. No window, no tray icon, no polling: it uses no CPU while you are not pressing Caps.
-
-## Disclaimer
+## 📝 Disclaimer
 
 - This repo was created with AI (Claude Code).
 - It is made for my own personal use and shared as is, with no warranty.
